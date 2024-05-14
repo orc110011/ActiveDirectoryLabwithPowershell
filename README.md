@@ -1,4 +1,4 @@
-h1>ActiveDirectoryHomeLabwithPowershell</h1>
+-ActiveDirectoryHomeLabwithPowershell</h1>
 
 
 <h2>Description</h2>
@@ -9,7 +9,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>OracleBox</b>
 
 <h2>Environments Used </h2>
 
