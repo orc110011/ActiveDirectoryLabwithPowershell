@@ -9,12 +9,12 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>OracleBox</b>
+- <b>VMWARE Workstation Pro </b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
+- <b> WINDOWS Server 2022 iso file</b> 
+  
 <h2>Program walk-through:</h2>
 
 <p align="center">
