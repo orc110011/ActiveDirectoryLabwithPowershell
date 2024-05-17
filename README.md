@@ -18,7 +18,7 @@ Project is concerning creating a 'personable' Administrative account along with 
 
 <p align="center">
 Create Admin User: <br/>
-<img src="https://i.imgur.com/HQkQGuV.pngheight="80%" width="80%" />
+<img src="https://i.imgur.com/HQkQGuV.pngheight="65%" width="65%" />
 <br />
 <br />
 Select the disk:  <br/>
