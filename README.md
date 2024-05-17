@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of creating an admin account in Active Directory and using a simple Powershell script to create user accounts in Active Directory.
 <br />
 
 
@@ -19,31 +19,29 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Create Admin User: <br/>
-<img src="https://i.imgur.com/HQkQGuV.pngheight="80%" width="80%" />
+<img src="https://i.imgur.com/HQkQGuV.png height="65%" width="65%" />
 <br />
 <br />
-Select the disk:  <br/>
+<p align="center">
+Active Directory Account Creation with Powershell: <br/>
+<img src="https://i.imgur.com/ErdNBiB.png height="65%" width="65%" />
+<br />
+<br />
+
 
 <br />
 <br />
-Enter the number of passes: <br/>
+Accounts created in Active Directory:  <br/>
+<img src="https://i.imgur.com/9DeKv3J.png height="65%" width=65%"  />
+
 
 <br />
 <br />
-Confirm your selection:  <br/>
+
 
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
 
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
