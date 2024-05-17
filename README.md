@@ -21,16 +21,12 @@ Create Admin User: <br/>
 <img src="https://i.imgur.com/HQkQGuV.png height="65%" width="65%" />
 <br />
 <br />
-Create User Accounts with Powershell script:  <br/>
-<img src"https://i.imgur.com/ErdNBiB.png height="65%" width="65%"  />
-
+Create User Accounts with Powershell script: <br/>
+<img src="https://i.imgur.com/ErdNBiB.png height="65%" width="65%" />
 <br />
 <br />
- <br/>
-
-<br />
-<br />
-
+User Accounts in Active Directory: <br/>
+<img src="https://i.imgur.com/9DeKv3J.png height="65%" width="65%" />
 
 <br />
 <br />
