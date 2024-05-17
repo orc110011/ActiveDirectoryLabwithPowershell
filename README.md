@@ -18,10 +18,11 @@ Project is concerning creating a 'personable' Administrative account along with 
 
 <p align="center">
 Create Admin User: <br/>
-<img src="https://i.imgur.com/HQkQGuV.pngheight="65%" width="65%" />
+<img src="https://i.imgur.com/HQkQGuV.png height="65%" width="65%" />
 <br />
 <br />
-Select the disk:  <br/>
+Create User Accounts with Powershell script:  <br/>
+<img src"https://i.imgur.com/ErdNBiB.png height="65%" width="65%"  />
 
 <br />
 <br />
